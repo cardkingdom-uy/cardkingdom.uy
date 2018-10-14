@@ -1,2 +1,2 @@
 # cardkingdom.uy
-Main website repositoru
+Main website repository
